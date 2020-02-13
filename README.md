@@ -13,6 +13,7 @@ sera réalisé par groupe sur une durée globale de 12h.
         * b. Choix du processus à modéliser
             * i. Chaque membre présente au sein du groupe un processus préalablement identifié (issu de son travail en alternance), éventuellement informel, préférable software or system process.
             * ii. Le groupe choisit le processus qui sera traité lors de l’étude de cas. Si plusieurs possibles, choisir le plus intéressant (complexité, collaboration).
+        * **_Résultat du travail :_** [ici](./ressources/seance1/etude_de_cas_GRANDCHAMPS_CESCHIN_GLORIES.pdf)
     * **Deadline 10/2/2020**
         * c. Pré-modélisation du processus
             * i. Identifier les acteurs
@@ -20,10 +21,12 @@ sera réalisé par groupe sur une durée globale de 12h.
             * iii. Réaliser un glossaire des termes employés dans le processus. Il servira pour les 2 modélisations.
         * d. Organisation du travail au sein du groupe sachant que chaque membre devra participer aux 2 modélisations (SPEM/BPMN)
         * e. Initialisation du rapport
+        * **_Résultat du travail :_** [pre-modelisation](./ressources/seance1/pre-mod.md), [organisation du travail](./ressources/seance1/organisation.md), [Rapport](./ressources/common/rapport.md)
 2. Séance 2 : 4h (avec C. Hanachi)
+* **Plus d'infos [ici](./ressources/seance2/infos.md)**
     * a. Modélisation du procédé en BPMN, selon l’approche vue en cours-TD. Description sous un moteur de workflow.
     * b. Validation par l’enseignant
-    * **Plus d'infos [ici](./ressources/seance2/infos.md)**
+    * **_Résultat du travail :_** [modelisation](./ressources/seance2/mod.md)
 3. Séance 3 : 4h (avec A. Garcia)
     * a. Modélisation du processus en SPEM, comme vu en cours-TD. Description sous ECLIPSE-EPF.
     * b. Validation par l’enseignant

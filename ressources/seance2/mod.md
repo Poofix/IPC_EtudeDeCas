@@ -1,0 +1,1 @@
+ # Modélisation du procédé en BPMN, selon l’approche vue en cours-TD. Description sous un moteur de workflow.
