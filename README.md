@@ -1,6 +1,7 @@
 # U.E. IPC (Ingénierie des Processus Collaboratifs) – 2019-2020
 ## Etude de cas : Modélisation d’un processus selon plusieurs langages
 
+#### **PDF [ici](./ressources/common/EtudeCas.pdf) !!!!**  
 Cette étude de cas a pour objectif d’appliquer les techniques et outils de modélisation vus
 dans le cours IPC à un processus issu de votre travail d’alternance en entreprise. Le travail
 sera réalisé par groupe sur une durée globale de 12h.
