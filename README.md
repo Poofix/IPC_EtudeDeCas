@@ -7,12 +7,12 @@ sera réalisé par groupe sur une durée globale de 12h.
 
 ### A) Travail à faire
 1. Séance 1 : (avec HN.Tran)
-    * Deadline 3/2/2020
+    * **Deadline 3/2/2020**
         * a. Constitution des groupes (3 ou 4 étudiants)
         * b. Choix du processus à modéliser
             * i. Chaque membre présente au sein du groupe un processus préalablement identifié (issu de son travail en alternance), éventuellement informel, préférable software or system process.
             * ii. Le groupe choisit le processus qui sera traité lors de l’étude de cas. Si plusieurs possibles, choisir le plus intéressant (complexité, collaboration).
-    * Deadline 10/2/2020
+    * **Deadline 10/2/2020**
         * c. Pré-modélisation du processus
             * i. Identifier les acteurs
             * ii. Identifier les principales activités, et pour chacune les acteurs impliqués, les produits en entrée-sortie,… Définir l’enchaînement global des activités
@@ -22,7 +22,7 @@ sera réalisé par groupe sur une durée globale de 12h.
 2. Séance 2 : 4h (avec C. Hanachi)
     * a. Modélisation du procédé en BPMN, selon l’approche vue en cours-TD. Description sous un moteur de workflow.
     * b. Validation par l’enseignant
-    * *Plus d'infos [ici](./ressources/seance2/infos.md)*
+    * **Plus d'infos [ici](./ressources/seance2/infos.md)**
 3. Séance 3 : 4h (avec A. Garcia)
     * a. Modélisation du processus en SPEM, comme vu en cours-TD. Description sous ECLIPSE-EPF.
     * b. Validation par l’enseignant
