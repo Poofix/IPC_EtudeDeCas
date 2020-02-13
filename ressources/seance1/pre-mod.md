@@ -4,3 +4,26 @@
 * iii. Réaliser un glossaire des termes employés dans le processus. Il servira pour les 2 modélisations.
 
 ***
+
+## Identification des acteurs :
+```
+Les acteurs :
+* Responsable d'Affaire
+
+* Pôle Automatisme :
+    * Le ou les automaticiens
+    * Le chef de projet
+    * Assistant Responsable d'Affaire
+* Pôle Informatique :
+    * Le ou les développeurs
+    * Le chef de projet
+    * Assistant Responsable d'Affaire
+
+* Le client
+```
+
+## Les principales activités :
+```
+Le pôle automatisme a réalisé un système sollicitant un automate. Il est nécéssaire de pouvoir visualiser en temps réel ce qu'il se passe dans l'usine.
+
+```
